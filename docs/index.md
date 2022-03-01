@@ -4,10 +4,9 @@
 
 ### List of UCB Plugins
 
-<details><summary>AccuRev</summary>
-<p>
+#### AccuRev
 
-#### Version 6
+##### Version 6
 
     AccuRev is a tool that provides version control for source code. The AccuRev plug-in automates populating an AccuRev workspace, creating a tag, and publishing source changes to the Changes tab of the buildlife.
 
@@ -16,19 +15,16 @@
 **[Overview](AccuRev_overview.md)**
 **[Settings](AccuRev_settings.md)**
 
-##### View Questions
+###### View Questions
 
-##### Ask a question
+###### Ask a question
 
-#### [Download](../files/AccuRev/AccuRev-6.752929.zip)
+###### [Download](../files/AccuRev/AccuRev-6.752929.zip)
 
-</p>
-</details>
 
-<details><summary>AccuWork</summary>
-<p>
+#### AccuWork
 
-#### Version 6
+##### Version 8
 
 AccuWork
 
@@ -40,7 +36,4 @@ AccuWork
 
 ##### Ask a question
 
-#### [Download](../files/AccuWork/AccuWork-8.1096129.zip)
-
-</p>
-</details>
+##### [Download](../files/AccuWork/AccuWork-8.1096129.zip)
