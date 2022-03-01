@@ -8,7 +8,7 @@
 
 ##### Version 6
 
-    AccuRev is a tool that provides version control for source code. The AccuRev plug-in automates populating an AccuRev workspace, creating a tag, and publishing source changes to the Changes tab of the buildlife.
+AccuRev is a tool that provides version control for source code. The AccuRev plug-in automates populating an AccuRev workspace, creating a tag, and publishing source changes to the Changes tab of the buildlife.
 
 ##### Documentation
 
@@ -26,7 +26,7 @@
 
 ##### Version 8
 
-AccuWork
+The integration with AccuWork to report on issues and add comments to them.
 
 ##### [Documentation](AccuWork_overview.md)
 
