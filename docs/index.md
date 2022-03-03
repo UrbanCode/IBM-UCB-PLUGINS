@@ -12,10 +12,10 @@ AccuRev is a tool that provides version control for source code. The AccuRev plu
 
 #### Documentation
 
-**[Overview](AccuRev_overview.md)**
-**[Settings](AccuRev_settings.md)**
+**[Overview](plugins/AccuRev/AccuRev_overview.md)**
+**[Settings](plugins/AccuRev/AccuRev_settings.md)**
 
-##### [Download](AccuRev_download.md)
+##### [Download](plugins/AccuRev/AccuRev_download.md)
 
 ---
 
@@ -25,20 +25,20 @@ AccuRev is a tool that provides version control for source code. The AccuRev plu
 
 The integration with AccuWork to report on issues and add comments to them.
 
-#### [Documentation](AccuWork_overview.md)
+#### [Documentation](plugins/AccuWork/AccuWork_overview.md)
 
-#### [Settings](AccuWork_settings.md)
+#### [Settings](plugins/AccuWork/AccuWork_settings.md)
 
-#### [Download](AccuWork_download.md)
-
----
+#### [Download](plugins/AccuWork/AccuWork_download.md)
 
 ---
 
-### Accuxxxx
+---
 
-The integration with AccuWork to report on issues and add comments to them.
+### Accuxxxx (f.e. AccuRev)
+
+AccuRev is a tool that provides version control for source code. The AccuRev plug-in automates populating an AccuRev workspace, creating a tag, and publishing source changes to the Changes tab of the buildlife.
 
 |                       |                                      |                                       |                                     |
 |:----------------------|:------------------------------------:|:-------------------------------------:|------------------------------------:|
-| **Latest Version: 8** | **[Overview](AccuWork_overview.md)** |  **[Settings](AccuWork_settings.md)** |**[Download](AccuWork_download.md)** |
+| **Latest Version: [8](../../files/AccuRev/AccuRev-6.752929.zip)** | **[Overview](plugins/AccuRev/AccuRev_overview.md)** |  **[Settings](plugins/AccuRev/AccuRev_settings.md)** |**[Download](plugins/AccuRev/AccuRev_download.md)** |
