@@ -33,6 +33,14 @@ The integration with AccuWork to report on issues and add comments to them.
 
 ---
 
+### AccuWorkXXX 
+
+The integration with AccuWork to report on issues and add comments to them.
+
+|                     |                                      |                                       |                                     |
+|:----------------------|:------------------------------------:|:-------------------------------------:|------------------------------------:|
+| **Latest Version: [8](https://github.com/UrbanCode/IBM-UCB-PLUGINS/raw/main/files/AccuWork/AccuWork-8.1096129.zip)** | **[Overview](plugins/AccuWork/overview.md)** |  **[Settings](plugins/AccuWork/steps.md)** |**[Download](plugins/AccuWork/download.md)** |
+
 ---
 
 ### Accuxxxx (f.e. AccuRev)
@@ -41,4 +49,4 @@ AccuRev is a tool that provides version control for source code. The AccuRev plu
 
 |                       |                                      |                                       |                                     |
 |:----------------------|:------------------------------------:|:-------------------------------------:|------------------------------------:|
-| **Latest Version: [8](https://github.com/UrbanCode/IBM-UCB-PLUGINS/raw/main/files/AccuRev/AccuRev-6.752929.zip)** | **[Overview](plugins/AccuRev/AccuRev_overview.md)** |  **[Settings](plugins/AccuRev/AccuRev_settings.md)** |**[Download](plugins/AccuRev/AccuRev_download.md)** |
+| **Latest Version: [6](https://github.com/UrbanCode/IBM-UCB-PLUGINS/raw/main/files/AccuRev/AccuRev-6.752929.zip)** | **[Overview](plugins/AccuRev/AccuRev_overview.md)** |  **[Settings](plugins/AccuRev/AccuRev_settings.md)** |**[Download](plugins/AccuRev/AccuRev_download.md)** |
