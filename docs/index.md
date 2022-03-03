@@ -41,4 +41,4 @@ AccuRev is a tool that provides version control for source code. The AccuRev plu
 
 |                       |                                      |                                       |                                     |
 |:----------------------|:------------------------------------:|:-------------------------------------:|------------------------------------:|
-| **Latest Version: [8](../../files/AccuRev/AccuRev-6.752929.zip)** | **[Overview](plugins/AccuRev/AccuRev_overview.md)** |  **[Settings](plugins/AccuRev/AccuRev_settings.md)** |**[Download](plugins/AccuRev/AccuRev_download.md)** |
+| **Latest Version: [8](https://github.com/UrbanCode/IBM-UCB-PLUGINS/raw/main/files/AccuRev/AccuRev-6.752929.zip)** | **[Overview](plugins/AccuRev/AccuRev_overview.md)** |  **[Settings](plugins/AccuRev/AccuRev_settings.md)** |**[Download](plugins/AccuRev/AccuRev_download.md)** |
