@@ -25,4 +25,6 @@
 | Revision | String | The version that is to be checked out. |
 | Stream | String | The stream that is to be checked out. |
 
-### Integration properties
+|                     |                                      |                                       |
+|:----------------------|:------------------------------------:|:-------------------------------------:|
+| **[Back to List](../../index.md)** | **[Overview](./overview.md)** |**[Download](./download.md)** |

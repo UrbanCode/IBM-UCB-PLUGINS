@@ -36,3 +36,7 @@ No special steps are required for installation. See [Installing plug-ins in Urba
 
 * Version 4.604289 includes the following features and fixes:
   * Fixed a communication issue where the UrbanCode Build server would fail if it was running with an IBM JDK or JRE.
+
+|                     |                                      |                                       |
+|:----------------------|:------------------------------------:|:-------------------------------------:|
+| **[Back to List](../../index.md)** | **[Steps](./steps.md)** |**[Download](./download.md)** |

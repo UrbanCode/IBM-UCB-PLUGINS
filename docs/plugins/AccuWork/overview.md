@@ -43,4 +43,4 @@ No special steps are required for installation. See Installing plug-ins in Urban
 
 |                     |                                      |                                       |
 |:----------------------|:------------------------------------:|:-------------------------------------:|
-| **[Back to List](../../index.md)** | **[Settings](./steps.md)** |**[Download](./download.md)** |
+| **[Back to List](../../index.md)** | **[Steps](./steps.md)** |**[Download](./download.md)** |

@@ -4,8 +4,8 @@
 ## Process steps in the AccuWork plug-in
 
 * [Add Comments](#add-comments)
-* Change Status
-* Get Details
+* [Change Status](#change-status)
+* [Get Details](#get-details)
 
 ### Add Comments
 
