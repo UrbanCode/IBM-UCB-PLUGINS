@@ -46,7 +46,6 @@ The integration with AccuWork to report on issues and add comments to them.
     - Retrieve information on AccuWork issues using source changes detected in AccuRev
 
 
-
 |Latest Version||||
 | :---: | :---: | :---: | :---: |
 |[**8.1096129**](https://raw.githubusercontent.com/UrbanCode/IBM-UCB-PLUGINS/main/files/AccuWork/AccuWork-8.1096129.zip)|[Overview](plugins/AccuWork/overview.md)|[Steps](plugins/AccuWork/steps.md)|[Downloads](plugins/AccuWork/downloads.md)|
