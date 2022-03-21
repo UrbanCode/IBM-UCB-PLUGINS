@@ -54,13 +54,13 @@ Contents
 	* [Reporting](#reporting)
 	* [Selenium for IBM UrbanCode Build](#selenium-for-ibm-urbancode-build)
 	* [Shell for IBM UrbanCode Build](#shell-for-ibm-urbancode-build)
-	* [SonarQube (formerly Sonar) (Deprecated)](#sonarqube-formerly-sonar-deprecated)
+	* [SonarQube (formerly Sonar)](#sonarqube-formerly-sonar)
 	* [SonarQube](#sonarqube)
 	* [Sonargraph](#sonargraph)
 	* [Subversion for IBM UrbanCode Build](#subversion-for-ibm-urbancode-build)
 	* [Team Foundation Server](#team-foundation-server)
 	* [TFS Work Items](#tfs-work-items)
-	* [UCB-Velocity](#ucb-velocity)
+	* [UrbanCode Velocity](#urbancode-velocity)
 	* [UCB Utilities](#ucb-utilities)
 	* [Visual Studio](#visual-studio)
 	* [Xcode](#xcode)
@@ -74,9 +74,6 @@ Contents
 	* [plugins-ucb-velocity](#plugins-ucb-velocity)
 	* [Salesforce](#salesforce)
 	* [uDeploy](#udeploy)
-	* [Gradle for IBM UrbanCode Build](#gradle-for-ibm-urbancode-build)
-	* [LogiGear TestArchitect for IBM UrbanCode Build](#logigear-testarchitect-for-ibm-urbancode-build)
-	* [UrbanCode Velocity](#urbancode-velocity)
 
 # List of all Plugins
 
@@ -1673,7 +1670,7 @@ Shell (with xargs) Run a shell or batch script a number of times equal to a mult
 
 
 ---
-## SonarQube (formerly Sonar) (Deprecated)
+## SonarQube (formerly Sonar)
 
 
 
@@ -1874,11 +1871,11 @@ Publish Work Item ReportCreate an issue report for work items.
 
 
 ---
-## UCB-Velocity
+## UrbanCode Velocity
 
-|Latest Version||
-| :---: | :---: |
-|[**5.1049716**](https://raw.githubusercontent.com/UrbanCode/IBM-UCB-PLUGINS/main/files/UCB-Velocity/urbancode-velocity-5.1049716.zip)|[Downloads](plugins/UCB-Velocity/downloads.md)|
+|Latest Version||||
+| :---: | :---: | :---: | :---: |
+|[**5.1049716**](https://raw.githubusercontent.com/UrbanCode/IBM-UCB-PLUGINS/main/files/UCB-Velocity/urbancode-velocity-5.1049716.zip)|[Overview](plugins/UCB-Velocity/overview.md)|[Steps](plugins/UCB-Velocity/steps.md)|[Downloads](plugins/UCB-Velocity/downloads.md)|
 
 
 ---
@@ -2152,97 +2149,6 @@ Buztool for uploading artifacts to z/OS component versions in UCD.
 |Latest Version||
 | :---: | :---: |
 |[**17.522989**](https://raw.githubusercontent.com/UrbanCode/IBM-UCB-PLUGINS/main/files/uDeploy/uDeploy-17.522989.zip)|[Downloads](plugins/uDeploy/downloads.md)|
-
-
----
-## Gradle for IBM UrbanCode Build
-
-
-
-Loading the Gradle plugin will give users access to the Gradle Job steps for use when designing your build.
-
-
-This 
-plug-in is developed and supported by the UrbanCode Build Community on GitHub. Click the “Visit Project” button at the 
-top of the page to navigate to the project for further information.
-
-
-
-
-|Latest Version||
-| :---: | :---: |
-|[**0.0**]()|[Downloads](plugins//downloads.md)|
-
-
----
-## LogiGear TestArchitect for IBM UrbanCode Build
-
-
-
-
-The LogiGear TestArchitect plug-in for IBM UrbanCode Deploy and Build provides steps to run tests using the 
-TestArchitect command line interface.
-
-
-
-
-The LogiGear TestArchitect plug-in is a community plug-in. Community plug-ins 
-are open source projects that are developed and supported by the IBM UrbanCode development community. Click **Visit 
-Project** at the top of the page to go to the project for further information.
-
-
-
-Downloads:
-----------
-
-
-* [LogiGear 
-TestArchitect plug-in distribution](https://github.com/IBM-UrbanCode/LogiGear-TestArchitect-UCB-UCD/releases)
-* [Source 
-project](https://github.com/IBM-UrbanCode/LogiGear-TestArchitect-UCB-UCD)
-
-
-If you encounter issues with the plug-in, or
- want to send feedback:
-
-
-* Ask LogiGear TestArchitect plug-in specific questions on the [GitHub 
-Issues](https://github.com/IBM-UrbanCode/LogiGear-TestArchitect-UCB-UCD/issues) page.
-* For general plug-in issues, 
-submit questions to the [dW Answers page](https://developer.ibm.com/answers/smart-spaces/23/urbancode.html).  
-
-Use the 
-following tags: urbancode | ucdev | plugins
-
-
-
-Available Steps
----------------
-
-
-Run TestArchitect batch fileRun a batch
- file of TestArchitect commands then collect the result.
-
-
-Run TestArchitect via Command LineCalls a Logigear 
-TestArchitect call via the command line. See Logigear TestArchitect for the official documentation on the command line.
-
-
-
-
-
-
-|Latest Version||
-| :---: | :---: |
-|[**0.0**]()|[Downloads](plugins//downloads.md)|
-
-
----
-## UrbanCode Velocity
-
-|Latest Version||||
-| :---: | :---: | :---: | :---: |
-|[**0.0**]()|[Overview](plugins//overview.md)|[Steps](plugins//steps.md)|[Downloads](plugins//downloads.md)|
 
 
 ---
