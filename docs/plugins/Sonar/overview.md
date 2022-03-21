@@ -1,6 +1,6 @@
 
-SonarQube (formerly Sonar) (Deprecated) - Overview Documentation
-================================================================
+SonarQube (formerly Sonar) - Overview Documentation
+===================================================
 
 # Overview
 
