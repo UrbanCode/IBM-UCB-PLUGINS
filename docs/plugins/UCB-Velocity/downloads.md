@@ -1,6 +1,6 @@
 
-UCB-Velocity Plugin Files Download
-==================================
+UrbanCode Velocity Plugin Files Download
+========================================
 
 # Versions
 
@@ -9,6 +9,6 @@ UCB-Velocity Plugin Files Download
 - [urbancode-velocity-2.1030041.zip](https://raw.githubusercontent.com/UrbanCode/IBM-UCB-PLUGINS/main/files/UCB-Velocity/urbancode-velocity-2.1030041.zip)
 - [urbancode-velocity-1.1027750.zip](https://raw.githubusercontent.com/UrbanCode/IBM-UCB-PLUGINS/main/files/UCB-Velocity/urbancode-velocity-1.1027750.zip)
 
-|Back to ...|
-| :---: |
-|[**List of Plugins**](../../index.md)|
+|Back to ...|||
+| :---: | :---: | :---: |
+|[**List of Plugins**](../../index.md)|[Overview](./overview.md)|[Steps](./steps.md)|
