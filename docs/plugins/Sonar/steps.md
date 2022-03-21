@@ -1,6 +1,6 @@
 
-SonarQube (formerly Sonar) (Deprecated) - Steps Documentation
-=============================================================
+SonarQube (formerly Sonar) - Steps Documentation
+================================================
 
 # Steps
 
