@@ -1,6 +1,6 @@
 
-SonarQube (formerly Sonar) (Deprecated) Plugin Files Download
-=============================================================
+SonarQube (formerly Sonar) Plugin Files Download
+================================================
 
 # Versions
 
